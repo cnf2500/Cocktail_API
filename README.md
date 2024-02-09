@@ -34,7 +34,7 @@ To get the project up and running on your local machine, follow these steps:
 To start the server, run the following command:
 
 ```bash
-npm start
+npm run
 ```
 
 The API can then be accessed at `http://localhost:3000`.
