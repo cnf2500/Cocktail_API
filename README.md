@@ -18,7 +18,7 @@ To get the project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/cnf2500/Cocktail_API.git>
+   git clone https://github.com/cnf2500/Cocktail_API.git
    ```
 2. Navigate to the project directory:
    ```bash
