@@ -5,7 +5,7 @@ This project is a wrapper API for The Cocktail DB, providing functionality to pa
 ## Features
 
 - Pagination of cocktail data.
-- (Optional) Filtering based on ingredients (not included due to data constraints).
+- Filtering based on ingredients.
 
 ## Requirements
 
